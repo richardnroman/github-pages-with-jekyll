@@ -1,4 +1,4 @@
-theme:minima
+theme:minimal
 
 # Welcome to my blog
 
