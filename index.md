@@ -1,4 +1,4 @@
-theme:minimal
+theme: minima
 
 # Welcome to my blog
 
@@ -8,3 +8,5 @@ I'm glad you are here. I plan to talk about ...
 This is my new website, enjoy.
 
 Contact us <a href="mailto:richardn.roman@gmail.com" target="_blank">here</a>
+
+[link to GitHub!](http://github.com)
